@@ -1,0 +1,15 @@
+C:\Users\cfaja\Test1\Test1\ConsolaPractica\bin\Debug\net8.0\ConsolaPractica.exe
+C:\Users\cfaja\Test1\Test1\ConsolaPractica\bin\Debug\net8.0\ConsolaPractica.deps.json
+C:\Users\cfaja\Test1\Test1\ConsolaPractica\bin\Debug\net8.0\ConsolaPractica.runtimeconfig.json
+C:\Users\cfaja\Test1\Test1\ConsolaPractica\bin\Debug\net8.0\ConsolaPractica.dll
+C:\Users\cfaja\Test1\Test1\ConsolaPractica\bin\Debug\net8.0\ConsolaPractica.pdb
+C:\Users\cfaja\Test1\Test1\ConsolaPractica\obj\Debug\net8.0\ConsolaPractica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cfaja\Test1\Test1\ConsolaPractica\obj\Debug\net8.0\ConsolaPractica.AssemblyInfoInputs.cache
+C:\Users\cfaja\Test1\Test1\ConsolaPractica\obj\Debug\net8.0\ConsolaPractica.AssemblyInfo.cs
+C:\Users\cfaja\Test1\Test1\ConsolaPractica\obj\Debug\net8.0\ConsolaPractica.csproj.CoreCompileInputs.cache
+C:\Users\cfaja\Test1\Test1\ConsolaPractica\obj\Debug\net8.0\ConsolaPractica.sourcelink.json
+C:\Users\cfaja\Test1\Test1\ConsolaPractica\obj\Debug\net8.0\ConsolaPractica.dll
+C:\Users\cfaja\Test1\Test1\ConsolaPractica\obj\Debug\net8.0\refint\ConsolaPractica.dll
+C:\Users\cfaja\Test1\Test1\ConsolaPractica\obj\Debug\net8.0\ConsolaPractica.pdb
+C:\Users\cfaja\Test1\Test1\ConsolaPractica\obj\Debug\net8.0\ConsolaPractica.genruntimeconfig.cache
+C:\Users\cfaja\Test1\Test1\ConsolaPractica\obj\Debug\net8.0\ref\ConsolaPractica.dll
