@@ -14,4 +14,8 @@ Practica 19/08/25
 mod para la rama devA
 
 Modificacion para dev1
+<<<<<<< HEAD
+>>>>>>> dev1
+=======
+mod1
 >>>>>>> dev1
